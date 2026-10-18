@@ -1,0 +1,241 @@
+﻿semana,codigo_partida,partida,especialidad,encargado,peso_partida,avance_planificado_semanal,avance_real_semanal
+1,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.02,0.02
+2,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+3,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+4,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+5,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+6,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+7,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+8,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+9,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+10,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+11,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+12,OC-01,Instalación de faenas,Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+1,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.01,0.01
+2,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+3,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+4,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+5,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+6,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+7,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+8,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+9,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+10,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+11,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+12,OC-02,Replanteo y trazado,Obras civiles,Jefe de Terreno,0.01,0.0,0.0
+1,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.05,0.05
+2,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+3,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+4,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+5,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+6,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+7,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+8,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+9,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+10,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+11,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+12,OC-03,Excavaciones y movimiento de tierras,Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+1,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+2,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+3,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+4,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+5,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+6,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+7,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+8,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+9,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.03,0.02
+10,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.02,0.02
+11,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.01
+12,OC-04,"Rellenos, compactación y reposición de terreno",Obras civiles,Jefe de Terreno,0.05,0.0,0.0
+1,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+2,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.08,0.08
+3,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+4,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+5,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+6,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+7,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+8,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+9,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+10,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+11,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+12,ES-01,Fundación y losa de fondo del estanque nuevo,Estructuras,Ingeniero Estructural,0.08,0.0,0.0
+1,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.0
+2,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.0
+3,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.04,0.02
+4,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.06,0.04
+5,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.04
+6,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.0
+7,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.0
+8,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.0
+9,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.0
+10,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.0
+11,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.0
+12,ES-02,Muros de hormigón armado del estanque nuevo,Estructuras,Ingeniero Estructural,0.1,0.0,0.0
+1,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+2,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+3,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+4,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+5,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.07,0.03
+6,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.04
+7,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+8,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+9,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+10,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+11,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+12,ES-03,Losa superior y elementos estructurales del estanque,Estructuras,Ingeniero Estructural,0.07,0.0,0.0
+1,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+2,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+3,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+4,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+5,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+6,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.04,0.02
+7,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.02
+8,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+9,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+10,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+11,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+12,ES-04,Impermeabilización y terminaciones del estanque,Estructuras,Ingeniero Estructural,0.04,0.0,0.0
+1,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.0,0.0
+2,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.015,0.015
+3,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.027,0.025
+4,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.018,0.02
+5,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.0,0.0
+6,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.0,0.0
+7,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.0,0.0
+8,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.0,0.0
+9,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.0,0.0
+10,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.0,0.0
+11,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.0,0.0
+12,ES-05,Construcción de caseta de tratamiento,Estructuras,Ingeniero Estructural,0.06,0.0,0.0
+1,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+2,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+3,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.02,0.02
+4,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.03,0.03
+5,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+6,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+7,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+8,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+9,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+10,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+11,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+12,HI-01,Construcción / adecuación de cámara de válvulas,Hidráulica,Ingeniero Hidráulico,0.05,0.0,0.0
+1,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+2,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+3,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+4,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+5,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+6,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+7,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.06,0.04
+8,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.02
+9,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+10,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+11,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+12,HI-02,Interconexión estanque existente–estanque nuevo,Hidráulica,Ingeniero Hidráulico,0.06,0.0,0.0
+1,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.0
+2,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.0
+3,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.0
+4,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.0
+5,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.036,0.03
+6,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.044,0.04
+7,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.01
+8,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.0
+9,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.0
+10,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.0
+11,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.0
+12,HI-03,Instalación de tuberías hidráulicas,Hidráulica,Ingeniero Hidráulico,0.08,0.0,0.0
+1,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.0
+2,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.0
+3,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.0
+4,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.0
+5,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.0
+6,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.0
+7,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.0
+8,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.04,0.02
+9,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.01
+10,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.01
+11,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.0
+12,HI-04,"Instalación de válvulas, fittings y accesorios",Hidráulica,Ingeniero Hidráulico,0.04,0.0,0.0
+1,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+2,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+3,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+4,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+5,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+6,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+7,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+8,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+9,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+10,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.02,0.02
+11,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+12,HI-05,Pruebas hidráulicas y desinfección,Hidráulica,Ingeniero Hidráulico,0.02,0.0,0.0
+1,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.0
+2,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.0
+3,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.0
+4,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.0
+5,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.0
+6,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.0
+7,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.028,0.025
+8,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.042,0.035
+9,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.01
+10,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.0
+11,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.0
+12,TR-01,Instalación del sistema de filtración,Tratamiento,Encargado de Tratamiento,0.07,0.0,0.0
+1,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+2,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+3,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+4,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+5,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+6,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+7,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+8,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.05,0.04
+9,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.01
+10,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+11,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+12,TR-02,Instalación del sistema de cloración,Tratamiento,Encargado de Tratamiento,0.05,0.0,0.0
+1,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.0
+2,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.0
+3,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.0
+4,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.0
+5,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.02,0.015
+6,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.03,0.02
+7,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.015
+8,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.0
+9,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.0
+10,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.0
+11,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.0
+12,EL-01,"Subestación, empalme y alimentación eléctrica",Electricidad,Eléctrico,0.05,0.0,0.0
+1,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.0,0.0
+2,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.0,0.0
+3,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.0,0.0
+4,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.0,0.0
+5,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.0,0.0
+6,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.01,0.005
+7,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.015,0.01
+8,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.015,0.01
+9,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.01,0.005
+10,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.0,0.01
+11,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.0,0.01
+12,EL-02,"Tableros, canalizaciones, alimentación de equipos y alumbrado exterior",Electricidad,Eléctrico,0.05,0.0,0.0
+1,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+2,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+3,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+4,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+5,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+6,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+7,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+8,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+9,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+10,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+11,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.02,0.02
+12,OC-05,"Terminaciones, pintura, cierre perimetral y limpieza final",Obras civiles,Jefe de Terreno,0.02,0.0,0.0
+1,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+2,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+3,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+4,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+5,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+6,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+7,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+8,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+9,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+10,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+11,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.0,0.0
+12,TR-03,"Puesta en servicio, capacitación y entrega",Tratamiento,Encargado de Tratamiento,0.03,0.03,0.03
